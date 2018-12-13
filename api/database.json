@@ -1,0 +1,32 @@
+{
+  "legos": [
+    {
+      "creatorName": "",
+      "legoName": "",
+      "legoColor": "",
+      "legoShape": "",
+      "id": 1
+    },
+    {
+      "creatorName": "",
+      "legoName": "SFfdg",
+      "legoColor": "",
+      "legoShape": "",
+      "id": 2
+    },
+    {
+      "creatorName": "sDF",
+      "legoName": "",
+      "legoColor": "",
+      "legoShape": "",
+      "id": 3
+    },
+    {
+      "creatorName": "EVERYTHING",
+      "legoName": "IS",
+      "legoColor": "!",
+      "legoShape": "AWESOME",
+      "id": 4
+    }
+  ]
+}
